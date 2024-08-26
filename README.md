@@ -23,8 +23,8 @@ Prequesites Node and NPM
 Git clone
 
 ```bash
-git clone 
-cd Yaswanth_21BIT0564
+git clone https://github.com/yaswanthreddytadipatri/Tadipatri_Yaswanth_Reddy_21BIT0564.git
+cd Tadipatri_Yaswanth_Reddy_21BIT0564
 ```
 
 Install required packages
