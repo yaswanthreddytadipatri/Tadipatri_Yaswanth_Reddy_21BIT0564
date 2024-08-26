@@ -100,15 +100,4 @@ When Player B wins
     │   ├── Game_Id.jpg            # Game Id UI picture
     └── ...
 
-## Features
 
-- **Turn-Based Strategy**: Players move pieces on a 5x5 board, alternating between turns. Each player shall be identified either as Player A or Player B.
-- **Unique Piece Movements**:
-    - **Pawn**: The pawn can move in four directions—left, right, forward, and backward.
-    - **Hero1**: Double steps—double left, double right, double forward, double back.
-    - **Hero2**: It moves diagonally forward and back—forward-left, forward-right, backward-left, backward-right.
-- **Real-Time Multiplayer**: Game A player can either join or create games with the use of a game ID. The state of the game is synchronized among players in real-time.
-- **Move Validation**: As per the selected piece type and its current position, only valid moves can be made. In case of invalid moves, it shows alerts to the user.
-- **Move History**: The history of moves can be shown to track and review all the moves made in the game.
-- **Game Over Detection**: The game itself detects the winner and locks the board to further moves until a new game is started.
-- **Interactive UI**: Hover over pieces to highlight valid moves and give in-depth instructions of movement.
