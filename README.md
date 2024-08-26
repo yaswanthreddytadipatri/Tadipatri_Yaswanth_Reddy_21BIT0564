@@ -5,7 +5,7 @@ A turn-based chess-like game with a server-client architecture, utilizing websoc
 
 
 ## Demo
-
+https://github.com/user-attachments/assets/1209ccaa-2052-4cdb-a184-20ed8d5a607a
 
 
 
